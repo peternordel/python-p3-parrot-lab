@@ -1,2 +1,3 @@
-def parrot():
-    pass
+def parrot(bird = "Squawk!"):
+    print(bird)
+    return bird
